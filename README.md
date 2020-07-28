@@ -1,1 +1,1 @@
-![Joshwong's github stats](https://github-readme-stats.vercel.app/api?username=Joshwoooooooooooooooooooooooooooooooong&show_icons=true)
+![Joshwong's github stats](https://github-readme-stats.vercel.app/api?username=Joshwoooooooooooooooooooooooooooooooong&show_icons=true&count_private=true)
